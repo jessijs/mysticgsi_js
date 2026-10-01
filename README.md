@@ -27,7 +27,7 @@ On macOS, install Homebrew and Xcode Command Line Tools first.
 ### Automatic setup
 
 ```sh
-git clone [https://github.com/MysticGSI/mysticgsi.git](https://github.com/jessijs/mysticgsi_js.git) && cd mysticgsi_js
+git clone https://github.com/jessijs/mysticgsi_js.git && cd mysticgsi_js
 ./setup_host.py     # --dev also installs pytest and Ruff
 ```
 
